@@ -1,34 +1,6 @@
-# Perfetta
+# Sharppi
 
-Free theme for [Ghost](http://github.com/tryghost/ghost/) prepared by [GavickPro](http://www.gavick.com/).
-
-[-> DEMO <-](http://perfetta.ghost.io)
-
-**Important** The v.1.3.0 adds a built-in support for the post cover images - if you are using older version of the theme, you will have to set cover images for all your older posts.
-
-## Download
-
-**Important** All below packages contain the "perfetta" directory with the theme which should be moved to the content/themes directory.
-
-[Download v.1.5.1 for Ghost 0.6.*](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v.1.5.1)
-
-[Download v.1.5.0 for Ghost 0.6.0](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v.1.5.0)
-
-[Download v.1.4.0 for Ghost 0.5.9](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v.1.4.0)
-
-[Download v.1.3.0 for Ghost 0.5.2](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v.1.3.0)
-
-[Download v.1.2.0 for Ghost 0.5.0](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v1.2.0)
-
-[Download v.1.1.2 for Ghost 0.4.2](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v1.1.2)
-
-[Download v.1.1.1 for Ghost 0.4.2](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v1.1.1)
-
-[Download v.1.1.0 for Ghost 0.4.2](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v1.1.0)
-
-[Download v.1.0.0 for Ghost 0.4.1](https://github.com/GavickPro/Perfetta-Free-Ghost-Theme/releases/tag/v1.0.0)
-
-![Screenshot](https://www.gavick.com/res/free-restaurant-coffe-ghost-theme-gavickpro.jpg)
+Based on [GavickPro's](http://www.gavick.com/) Perfecta Theme.
 
 ## Important information
 
